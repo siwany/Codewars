@@ -9,5 +9,3 @@ My Solutions for codewars problem
 - Codewarriors should not submit my solutions as their own
 - I will not be accepting contributions of any form to this repo
 - Creating a repository like this is discouraged by Codewars
-
-## [Java Solutions](https://github.com/siwany/Codewars/blob/main/Java/java.md)
