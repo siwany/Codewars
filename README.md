@@ -10,8 +10,4 @@ My Solutions for codewars problem
 - I will not be accepting contributions of any form to this repo
 - Creating a repository like this is discouraged by Codewars
 
-# Level
-1kyu, 2kyu - Proficient\
-3kyu, 4kyu - Competent\
-5kyu, 6kyu - Novice\
-7kyu, 8kyu - Beginner
+## [Java Solutions](https://github.com/siwany/Codewars/blob/main/Java/java.md)
